@@ -155,9 +155,12 @@ body {
 
 .contact .address {
   color: var(--primary-white-color);
+  font-style: normal;
 }
 .contact .items {
   color: var(--footer-text-color);
+  text-decoration: none;
+  font-style: normal;
 }
 
 .contact .items:hover,
